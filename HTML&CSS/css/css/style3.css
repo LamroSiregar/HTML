@@ -1,0 +1,36 @@
+h3{
+    color: brown;
+    font-style: italic;
+}
+.td1{
+    color: brown;
+    background-color: cadetblue;
+    border: 1px dotted brown;
+    font-family:georgia;
+    padding: 5px;
+    margin: 10px;
+}
+.td2{
+    background-color: coral;
+    border: 1px dotted brown;
+    padding: 5px;
+    margin: 10px;
+}
+.td3{
+    background-color: coral;
+    border: 1px dotted brown;
+    padding: 5px;
+    margin: 10px;
+}
+.td4{
+    background-color: blue;
+    border: 1px dotted brown;
+    color: white;
+    font-family:cursive;
+    font-style: italic;
+    padding: 5px;
+    margin: 10px;
+}
+table{
+    width: 50%;
+}

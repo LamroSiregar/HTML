@@ -1,0 +1,17 @@
+.p1 {
+    color:red;
+    font-size: 25px;
+    font-family: 'Lucida Sans' ;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.p2 {
+    color:blue;
+    font-size:25px ;
+    font-family: 'Times New Roman';
+    font-weight:bold;
+    font-style: italic;
+
+
+}

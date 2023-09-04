@@ -1,0 +1,37 @@
+body{
+    background-color:green;
+}
+
+.hijau{
+    color: green;
+}
+
+.kuning{
+    color:yellow;
+}
+.merah{
+    color: red;
+}
+
+#hijau {
+    color:white;
+}
+
+input[type=text]{
+    background-color: blueviolet;
+    color:white;
+    border:3px dotted yellow;
+    width: 200px;
+    padding:5px;
+    margin:10px;
+
+}
+
+
+input[type=password]{
+   background-color: red;
+   color:brown;
+   border: 3px dotted yellow;
+
+
+}

@@ -1,0 +1,49 @@
+
+.menu {
+  background-color: goldenrod;
+  font-size: small;
+}
+table{
+    background-color: white;
+}
+.table1{
+  background-color: midnightblue;
+}
+body {
+  background-image: linear-gradient(
+    to right top,
+    #020023,
+    #004078,
+    #0081aa,
+    #00c393,
+    #00ff21
+  );
+  background-attachment: fixed ;
+}
+.gb{
+  width: 150px;
+  height: top;
+}
+.footer{
+  background-color: midnightblue;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+  text-align: center;
+}
+.border1{
+  border: 2px solid yellow ;
+  padding: 1px;
+  margin: 5px;
+}
+.content{
+  height: 70vh;
+  vertical-align: top;
+  margin: 5px;
+  padding:10px;
+  font-size: 14px;
+  text-align: left;
+}
+.gbr{
+  float: left;
+}
